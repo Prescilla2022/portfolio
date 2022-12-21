@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c38f7108.css",
+    "main.js": "/portfolio/static/js/main.7f3dbd14.js",
+    "static/media/WeatherApp.png": "/portfolio/static/media/WeatherApp.f1e978b0aaec776bc993.png",
+    "static/media/imagegallery.png": "/portfolio/static/media/imagegallery.7c13cf5619d42f5dbfc1.png",
+    "static/media/ToDo.png": "/portfolio/static/media/ToDo.6068e6ad4bcabc9e3b3d.png",
+    "static/media/roll_dice.png": "/portfolio/static/media/roll_dice.1d85b4f6ba9b8504cd47.png",
+    "static/media/pokemon.png": "/portfolio/static/media/pokemon.50290f042a42136f48fd.png",
+    "static/media/drumkit.png": "/portfolio/static/media/drumkit.d6025ffa5fc5a4f7281c.png",
+    "static/media/background.jpg": "/portfolio/static/media/background.d81b3bb3cc7799f8a5b8.jpg",
+    "static/media/call.png": "/portfolio/static/media/call.6c464b38b79a168e94c9.png",
+    "index.html": "/portfolio/index.html",
+    "main.c38f7108.css.map": "/portfolio/static/css/main.c38f7108.css.map",
+    "main.7f3dbd14.js.map": "/portfolio/static/js/main.7f3dbd14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c38f7108.css",
+    "static/js/main.7f3dbd14.js"
+  ]
+}

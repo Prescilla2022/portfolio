@@ -1,0 +1,69 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  height: 544px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.about-button {
+  background-color: #facf0f;
+  width: 183px;
+  height: 44px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  font-weight: bolder;
+  box-shadow: 10px 10px 10px -2px rgba(0, 0, 0, 0.2);
+}
+.about--mainContent {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: auto;
+  /*border: 1px solid black;*/
+}
+.content--one,
+.content--two {
+  width: 450px;
+  height: 200px;
+  /* border: 1px solid black;*/
+  text-align: left;
+}
+
+.skills {
+  width: 300px;
+}
+.skills > button {
+  margin: 5px;
+  padding: 5px 20px 5px 20px;
+  border-radius: 20px;
+  border-color: transparent;
+  box-shadow: 5px 5px 5px -2px;
+}
+
+.skills > button:hover {
+  background-color: #facf0f;
+  border-radius: 20px;
+  border-color: transparent;
+}
+
+.about--heading {
+  margin-top: 20px;
+}
+
+.about p {
+  font-size: 12px;
+}
+.aboutMe {
+  width: 420px;
+  height: 150px;
+}
+.underline {
+  width: 30;
+  background-color: #facf0f;
+}

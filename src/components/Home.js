@@ -39,7 +39,10 @@ export default function Home() {
           user friendly applications that leads to the success of the overall
           product.
         </p>
-        <button className="home-button" onClick={() => navigate("/Projects")}>
+        <button
+          className="home-button"
+          onClick={() => navigate("/portfolio/Projects")}
+        >
           PROJECTS
         </button>
       </div>

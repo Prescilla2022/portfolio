@@ -32,7 +32,10 @@ export default function About() {
               grow.If you have a good oppurt
             </p>
           </div>
-          <button className="about-button" onClick={() => navigate("/Contact")}>
+          <button
+            className="about-button"
+            onClick={() => navigate("/portfolio/Contact")}
+          >
             CONTACT
           </button>
         </div>

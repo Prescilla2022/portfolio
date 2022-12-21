@@ -29,7 +29,8 @@ export default function About() {
             </p>
             <p>
               I am open to job oppurtunities where I can contribute ,learn and
-              grow.If you have a good oppurt
+              grow.If you have a good oppurtunity that matches my skills then
+              don’t hesitate to contact me.
             </p>
           </div>
           <button

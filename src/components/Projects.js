@@ -1,6 +1,5 @@
 import React from "react";
-import { useContext } from "react";
-import { dataContext } from "../App.js";
+
 import Details from "./Details.js";
 
 export default function Projects() {

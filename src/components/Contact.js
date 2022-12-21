@@ -19,7 +19,7 @@ export default function Contact() {
       Email:${email} 
       Message:${message}`
     );
-    alert("Thnaks for contacting!!!");
+    alert("Thanks for contacting!!!");
   }
 
   //functions to handle the change in input fields

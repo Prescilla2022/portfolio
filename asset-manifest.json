@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.441d6504.css",
-    "main.js": "/portfolio/static/js/main.207d2388.js",
+    "main.js": "/portfolio/static/js/main.de8e6e28.js",
     "static/media/Jule_CountDown.png": "/portfolio/static/media/Jule_CountDown.d7c4704ad0b055da8763.png",
     "static/media/WeatherApp.png": "/portfolio/static/media/WeatherApp.f1e978b0aaec776bc993.png",
     "static/media/imagegallery.png": "/portfolio/static/media/imagegallery.7c13cf5619d42f5dbfc1.png",
@@ -9,15 +9,16 @@
     "static/media/roll_dice.png": "/portfolio/static/media/roll_dice.1d85b4f6ba9b8504cd47.png",
     "static/media/pokemon.png": "/portfolio/static/media/pokemon.50290f042a42136f48fd.png",
     "static/media/profilepic.png": "/portfolio/static/media/profilepic.e659cce7cca1ac6b7f8c.png",
+    "static/media/password_generator.png": "/portfolio/static/media/password_generator.91b436a6ed4523d8db1c.png",
     "static/media/drumkit.png": "/portfolio/static/media/drumkit.d6025ffa5fc5a4f7281c.png",
     "static/media/background.jpg": "/portfolio/static/media/background.d81b3bb3cc7799f8a5b8.jpg",
     "static/media/call.png": "/portfolio/static/media/call.6c464b38b79a168e94c9.png",
     "index.html": "/portfolio/index.html",
     "main.441d6504.css.map": "/portfolio/static/css/main.441d6504.css.map",
-    "main.207d2388.js.map": "/portfolio/static/js/main.207d2388.js.map"
+    "main.de8e6e28.js.map": "/portfolio/static/js/main.de8e6e28.js.map"
   },
   "entrypoints": [
     "static/css/main.441d6504.css",
-    "static/js/main.207d2388.js"
+    "static/js/main.de8e6e28.js"
   ]
 }

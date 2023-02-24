@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4caf47f6.css",
-    "main.js": "/portfolio/static/js/main.8eda9fda.js",
+    "main.css": "/portfolio/static/css/main.b4de8ff8.css",
+    "main.js": "/portfolio/static/js/main.35371ce5.js",
     "static/media/Jule_CountDown.png": "/portfolio/static/media/Jule_CountDown.d7c4704ad0b055da8763.png",
     "static/media/WeatherApp.png": "/portfolio/static/media/WeatherApp.f1e978b0aaec776bc993.png",
     "static/media/imagegallery.png": "/portfolio/static/media/imagegallery.7c13cf5619d42f5dbfc1.png",
@@ -18,11 +18,11 @@
     "static/media/background.jpg": "/portfolio/static/media/background.d81b3bb3cc7799f8a5b8.jpg",
     "static/media/call.png": "/portfolio/static/media/call.6c464b38b79a168e94c9.png",
     "index.html": "/portfolio/index.html",
-    "main.4caf47f6.css.map": "/portfolio/static/css/main.4caf47f6.css.map",
-    "main.8eda9fda.js.map": "/portfolio/static/js/main.8eda9fda.js.map"
+    "main.b4de8ff8.css.map": "/portfolio/static/css/main.b4de8ff8.css.map",
+    "main.35371ce5.js.map": "/portfolio/static/js/main.35371ce5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4caf47f6.css",
-    "static/js/main.8eda9fda.js"
+    "static/css/main.b4de8ff8.css",
+    "static/js/main.35371ce5.js"
   ]
 }
